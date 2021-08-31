@@ -3,7 +3,7 @@ It is MERN (mongodb, express, react, node) stack e-commerce website. This web in
 
 ## How to run locally?
 
-1. git clone https://github.com/Vaishali375/E-Commerce-MERN
+1. git clone https://github.com/MansiRaveshia/Ecommerce-website
 2. cd E-Commerce-MERN
 3. npm i
 4. cd admin
